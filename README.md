@@ -9,3 +9,7 @@ https://www.kaufmann.no/roland/dvorak/
 ## Layout Editor:
 https://github.com/nickcoutsos/keymap-editor
 https://nickcoutsos.github.io/keymap-editor/
+
+
+# To Do:
+- Do it myself instead of from a template: https://zmk.dev/docs/user-setup
